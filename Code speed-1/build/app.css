@@ -1,0 +1,15 @@
+body{
+    font-family:"Poppins", sans-serif;
+}
+.slideshow {
+    display: flex;
+    overflow: hidden;
+    width: 100%; /* Thay đổi kích thước theo ý muốn */
+  }
+  
+  .slide {
+   
+    min-width: 100%;
+    transition: transform 0.5s;
+  }
+  
